@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Tc. Witschi B. Mihan]!
+# 👋 Hi there, I'm Tc. Witschi B. Mihan!
 
 ### 🚀 About Me
 I'm a passionate developer and tech enthusiast who loves building projects, solving problems, and learning new things every day. Currently focused on:
