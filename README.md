@@ -30,9 +30,9 @@ I'm a passionate developer and tech enthusiast who loves building projects, solv
 
 ### 📫 Get in Touch
 
-- LinkedIn: [YourLinkedIn](www.linkedin.com/in/tc-witschi-mihan-14a347312)
-- Email: [your@email.com](mailto:mihanwitschi@gmail.com)
-- Portfolio: [yourportfolio.com](witschi-mihan.super.site)
+- LinkedIn:(www.linkedin.com/in/tc-witschi-mihan-14a347312)
+- Email:(mailto:mihanwitschi@gmail.com)
+- Portfolio:(witschi-mihan.super.site)
 
 ---
 
