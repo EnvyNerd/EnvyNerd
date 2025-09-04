@@ -25,13 +25,6 @@ Currently exploring and working on:
 
 ---
 
-### 📈 GitHub Stats  
-
-![Witschi's GitHub stats](https://github-readme-stats.vercel.app/api?username=witschi-mihan&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=witschi-mihan&layout=compact&theme=github_dark)  
-
----
-
 ### 📫 Get in Touch  
 
 - [LinkedIn](https://www.linkedin.com/in/tc-witschi-mihan-14a347312)  
