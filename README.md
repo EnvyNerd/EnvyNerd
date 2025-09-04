@@ -3,7 +3,7 @@
 ### 🚀 About Me
 I'm a passionate developer and tech enthusiast who loves building projects, solving problems, and learning new things every day. Currently focused on:
 
-- 🔧 Software Development (Java, Python, C++, Pascal.)
+- 🔧 Software Development (Java, Python, C++, Pascal, Fortran, Cobol)
 - 💡 Machine Learning & Data Science
 - ⚙️ Oil & Gas Industry Applications
 - 🌐 Web3, Blockchain, and Smart Contracts
