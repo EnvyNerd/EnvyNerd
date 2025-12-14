@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Tc. Witschi B. Mihan!
 
 ### 🚀 About Me  
-I’m a passionate developer and tech enthusiast who loves building projects, solving problems, and learning new things every day.  
+I’m a passionate developer and tech enthusiast who loves building projects, solving problems, and learning new things every day.
+As a dedicated IT Networking professional currently pursuing a Diploma in Information Technology (Networking), I bring a strong foundation in technical systems 
 
 Currently exploring and working on:  
 - 🔧 **Software Development** (Java, Python, C++, Pascal, Fortran, COBOL)  
